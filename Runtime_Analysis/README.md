@@ -10,4 +10,4 @@ FLOPs & FLOPS & MACs 의 차이
 - MFLOPS(Million Floating Point Operations per Second)를 의미하며, 1MFLOPS는 초당 백만 FLOPS를 처리한다는 뜻입니다. 
 
 #### MACs
-- MACs(Multiply–ACcumulates)를 의미하며, 곱셈과 덧셈을 결합한 연산을 하나로 계산합니다. 따라서 MACs ≒ 2 X FLOPs라 볼 수 있습니다. 
+- MACs(Multiply–ACcumulates)를 의미하며, 곱셈과 덧셈을 결합한 연산을 하나로 계산합니다. 따라서 FLOPs ≒ 2 X MACs 라 볼 수 있습니다. 
