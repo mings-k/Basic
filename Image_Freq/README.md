@@ -8,3 +8,7 @@
 - 공간 영역에서는 픽셀 값으로 이미지를 표현하며 주파수 영역에서는 계수로 표현됌
 
 - 대표적인 이미지의 주파수 변환 방법은 DCT(Discrete Cosine Transform), DFT(Discrete Fourier Transform) 가 있음
+
+- Mask를 사용하여 저주파, 고주파 이미지 분리 시 Mask 크기에 따른 이미지 변화는 아래와 같음
+
+![alt text](output.gif)
